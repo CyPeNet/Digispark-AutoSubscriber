@@ -16,7 +16,7 @@ void setup() {
       delay(500);
       
       //Paste your YouTube Link where it says "YOURYOUTUBELINK". Example: YouTube.com/CyPeNet?sub_confirmation=1
-      DigiKeyboard.print("start chrome.exe youtube.com/channel/UCmLmFlJuFthgcFz0yJkpS_g?sub_confirmation=1");
+      DigiKeyboard.print("start chrome.exe YOURYOUTUBELINK/channel/UCmLmFlJuFthgcFz0yJkpS_g?sub_confirmation=1");
 
       DigiKeyboard.sendKeyStroke(KEY_ENTER);
 
