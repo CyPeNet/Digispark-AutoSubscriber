@@ -2,10 +2,6 @@
 
 Digispark Project Zero.
 
-DISCLAIMER !
-This Channel DOES NOT Promote or encourage Any illegal activities, all contents provided by this channel is meant for EDUCATIONAL PURPOSE only.
-
-
     ¬████████████████████████████████▌
     ▐██████▌  ███   █████████████▌  █▌
     ▐██████▌  ███████████████████████▌                                 '▀█-      ▐█`
