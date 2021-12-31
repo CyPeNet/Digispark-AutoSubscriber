@@ -1,6 +1,8 @@
 # Digispark-AutoSubscriber
 
 Digispark Project Zero.
+<a href=""><img src="https://img.shields.io/badge/version-1.0-blue"></a>
+
 
     ¬████████████████████████████████▌
     ▐██████▌  ███   █████████████▌  █▌
